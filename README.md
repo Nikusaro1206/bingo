@@ -1,5 +1,6 @@
 # bingo
 # 基本仕様
+うまくpullできなくて古い方のプログラムです
 - プログラミング言語:Python 
 - GUIライブラリ:tkinter
   
